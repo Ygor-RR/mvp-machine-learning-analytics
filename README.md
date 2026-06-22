@@ -1,7 +1,9 @@
 # MVP — Predição de Churn em Telecomunicações
 
 Aluno: Ygor Ribeiro Rodrigues
+
 Curso: Machine Learning & Analytics
+
 Instituição: PUC-Rio
 
 📌 Sobre o projeto
