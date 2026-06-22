@@ -53,14 +53,14 @@ XGBoost otimizado
 Resultados no conjunto de teste:
 
 DummyClassifier: F1-Score = 0.0000
-Regressão Logística: F1-Score = 0.6040
+Regressão Logística: F1-Score = 0.6136
 Random Forest: F1-Score = 0.5321
 XGBoost otimizado: F1-Score = 0.5882
 
 🏆 Melhor modelo
 O melhor modelo foi a Regressão Logística, com:
 
-F1-Score no teste: 0.6040
+F1-Score no teste: 0.6136
 Hiperparâmetros principais:
 C=1.0
 class_weight='balanced'
